@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kriging-contour.iml" filepath="$PROJECT_DIR$/kriging-contour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kriging-contour-clip.iml" filepath="$PROJECT_DIR$/kriging-contour-clip.iml" />
     </modules>
   </component>
 </project>

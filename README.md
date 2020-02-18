@@ -1,10 +1,10 @@
-# kriging-contour
-对离散点进行克里金插值并输出矢量等值面
+# kriging-contour-clip
+对离散点进行克里金插值并输出矢量等值面,并对其进行不规则多边形裁剪
 
 安装
 ```
-git clone git@github.com:FreeGIS/kriging-contour.git
-cd kriging-contour
+git clone git@github.com:Qtvz/Kriging-Contour-Clip.git
+cd kriging-contour-clip
 npm install
 ```
 编译
