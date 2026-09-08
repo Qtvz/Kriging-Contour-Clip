@@ -12,7 +12,7 @@
   "description": "Compute contour polygons using marching squares.",
   "devDependencies": {
     "eslint": "5",
-    "rollup": "0.64",
+    "rollup": "2.80",
     "rollup-plugin-terser": "1",
     "tape": "4"
   },
